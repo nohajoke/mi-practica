@@ -1,4 +1,4 @@
-# mi-practica
+# mi-primera-chamba
 primer repo creado en github
 
 ## descripción 
